@@ -1,0 +1,161 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
+  <diagram name="Page-1" id="9UPAaNp7l-a1O8bQFvtN">
+    <mxGraphModel dx="2068" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hFor3bDlhzHZQahshi7K-3" value="«Software System»&lt;br&gt;&lt;b&gt;Opwa System&lt;/b&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="400" width="790" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="hFor3bDlhzHZQahshi7K-2" value="«Software System»&lt;br&gt;&lt;b&gt;Pawa System&lt;/b&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="740" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-131" target="cg44iBbyYJHXamoWZPsQ-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-136" value="REST Call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cg44iBbyYJHXamoWZPsQ-135" vertex="1" connectable="0">
+          <mxGeometry x="-0.0044" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-131" value="«Component»&lt;br&gt;&lt;b&gt;PAWA FrontEnd(FE)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(HTML/CSS/JavaScript)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- &lt;b&gt;Page&lt;/b&gt;: Registration Page,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Login Page,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Metro Line Search Page,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ticket Purchase Page,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ticket History Page,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Profile Page,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;E-Wallet Page&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="720" y="380" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-132" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-131" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-133" target="cg44iBbyYJHXamoWZPsQ-137" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-133" target="cg44iBbyYJHXamoWZPsQ-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-133" target="cg44iBbyYJHXamoWZPsQ-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-133" value="«Component»&lt;br&gt;&lt;b&gt;PAWA BackEnd(BE)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(SpringBoot)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Controller&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-Service&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-Repository&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="720" y="660" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-134" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-133" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-137" value="Database&lt;div&gt;(MongoDB)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="480" y="740" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-138" target="cg44iBbyYJHXamoWZPsQ-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-138" value="«Component»&lt;br&gt;&lt;b&gt;PAWA API&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;TicketAPI, PaymentAPI&amp;nbsp;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="500" y="940" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-139" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-138" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-141" value="«Component»&lt;br&gt;&lt;b&gt;PAWA API&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot; data-end=&quot;1261&quot; data-start=&quot;1239&quot;&gt;Metro Line API,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot; data-end=&quot;1261&quot; data-start=&quot;1239&quot;&gt;Search&amp;nbsp; API,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot; data-end=&quot;1261&quot; data-start=&quot;1239&quot;&gt;Metro Suspension Alert API,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="850" y="980" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-142" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-141" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-145" target="cg44iBbyYJHXamoWZPsQ-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="1190" />
+              <mxPoint x="1110" y="1190" />
+              <mxPoint x="1110" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-145" value="«Component»&lt;br&gt;&lt;b&gt;OPWA BackEnd(BE)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(SpringBoot)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Notification API&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ScheduleAPI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MetroLineAPI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="650" y="1150" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-146" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-145" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" target="cg44iBbyYJHXamoWZPsQ-145" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890.54" y="997.43" as="sourcePoint" />
+            <mxPoint x="769.9999999999998" y="1149.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cg44iBbyYJHXamoWZPsQ-150" target="cg44iBbyYJHXamoWZPsQ-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-167" value="REST call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cg44iBbyYJHXamoWZPsQ-154" vertex="1" connectable="0">
+          <mxGeometry x="-0.2069" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-150" value="«Component»&lt;br&gt;&lt;b&gt;OPWAFrontEnd(FE)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(HTML/CSS/JavaScript)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- &lt;b&gt;Page&lt;/b&gt;:&amp;nbsp;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Login Page,&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Ticket Purchase, Page&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Metro Line Management Page&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="445" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-151" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-150" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-152" target="cg44iBbyYJHXamoWZPsQ-155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-152" target="cg44iBbyYJHXamoWZPsQ-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-152" target="cg44iBbyYJHXamoWZPsQ-162" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cg44iBbyYJHXamoWZPsQ-152" target="cg44iBbyYJHXamoWZPsQ-164" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-152" value="«Component»&lt;br&gt;&lt;b&gt;OPWA BackEnd(BE)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(SpringBoot)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;- Controller:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;619&quot; data-start=&quot;599&quot;&gt;Staff Management,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;652&quot; data-start=&quot;627&quot;&gt;Metro Line Management,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;681&quot; data-start=&quot;660&quot;&gt;Ticket Management,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;711&quot; data-start=&quot;689&quot;&gt;Payment Processing,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;736&quot; data-start=&quot;719&quot;&gt;Notifications&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Service:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;the business logic for operations.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;-Repository:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;Deals with &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot; data-end=&quot;930&quot; data-start=&quot;914&quot;&gt;data storage&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot; data-end=&quot;960&quot; data-start=&quot;935&quot;&gt;database interactions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1505" y="705" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-153" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-152" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-155" value="«Component»&lt;br&gt;&lt;b&gt;OPWA API&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1035" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-156" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-155" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-158" value="«Component»&lt;br&gt;&lt;b&gt;External Service&lt;/b&gt;&lt;div&gt;Notification API,&amp;nbsp;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="1035" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-159" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-158" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-162" value="Database&lt;div&gt;(MongoDB)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="815" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-164" value="«Component»&lt;br&gt;&lt;b&gt;PAWA BackEnd(BE)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(SpringBoot)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;247&quot; data-start=&quot;228&quot;&gt;Ticket &lt;/strong&gt;&lt;b&gt;API&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PaymentAPI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="735" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cg44iBbyYJHXamoWZPsQ-165" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cg44iBbyYJHXamoWZPsQ-164" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
